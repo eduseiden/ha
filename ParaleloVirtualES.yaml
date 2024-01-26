@@ -30,6 +30,6 @@ action:
       hours: 0
       minutes: 0
       seconds: 0
-      milliseconds: 200
+      milliseconds: 100
 
 mode: single
