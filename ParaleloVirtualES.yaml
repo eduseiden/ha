@@ -10,7 +10,6 @@ blueprint:
               domain:
                 - switch
                 - light
-                - cover
               multiple: true
 
 trigger:
