@@ -88,7 +88,7 @@ max_exceeded: silent
 trigger:
 - platform: state
   entity_id: !input "switch"
-  attribute: action
+  #attribute: action
 action:
 - variables:
     command: "{{ trigger.to_state.state }}"
