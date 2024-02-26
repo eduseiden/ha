@@ -32,6 +32,6 @@ action:
       seconds: 2
       milliseconds: 0
 
-#mode: single
+mode: single
 #mode: parallel
-mode: queued
+#mode: queued
