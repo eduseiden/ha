@@ -32,5 +32,5 @@ action:
       seconds: 5
       milliseconds: 0
 
-# mode: single
-mode: parallel
+mode: single
+#mode: parallel
