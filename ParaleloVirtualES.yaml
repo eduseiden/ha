@@ -29,8 +29,8 @@ action:
   - delay:
       hours: 0
       minutes: 0
-      seconds: 0
-      milliseconds: 200
+      seconds: 1
+      milliseconds: 0
 
 mode: single
 #mode: parallel
