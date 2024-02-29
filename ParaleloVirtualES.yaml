@@ -1,4 +1,4 @@
-2blueprint:
+blueprint:
   name: Paralelo Virtual
   description: Acenda/Apaga todos os switchs/lights do grupo simultaneamente
   domain: automation
